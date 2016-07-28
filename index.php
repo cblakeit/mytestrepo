@@ -14,6 +14,7 @@ echo "<h2>Hello World</h2>";
 ?>
 
 <p>This is My Test Repo!</p>
+<?php include("test.php"); ?>
 
 </div>
 
